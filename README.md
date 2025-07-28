@@ -7,7 +7,7 @@ This is the official support page for the **Cook With** mobile app, hosted via G
 ## 📄 Live Site
 
 Visit the support page here:  
-[https://shivamjha7865.github.io/cookwith-support/](https://shivamjha7865.github.io/cookwith-support/)
+[https://shivamjha1998.github.io/cookwith-support/](https://shivamjha1998.github.io/cookwith-support/)
 
 ## 🛠 Tech Stack
 
