@@ -22,4 +22,4 @@ For support or questions, email:
 
 ---
 
-> This site is open-source and maintained by [Shivam Jha](https://github.com/shivamjha7865).
+> This site is open-source and maintained by [Shivam Jha](https://github.com/shivamjha1998).
